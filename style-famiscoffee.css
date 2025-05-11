@@ -204,3 +204,20 @@ body{
     background:white;
     margin:50px 100px;
 }
+.contact h1{
+    font-size:50px;
+}
+
+.bottombar{
+    padding:10px 0;
+    background:#716246;
+}
+.bottombar h1{
+    font-size:10px;
+    font-family:"Times New Roman"
+}
+
+.infomation{
+    display:inline-block;
+    text-align:center;
+}
